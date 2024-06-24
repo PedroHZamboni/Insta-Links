@@ -1,4 +1,4 @@
-<h1 align="center"> Inta-Links </h1>
+<h1 align="center"> Insta-Links </h1>
 
 <p align="center">
 Projeto inspirado pela Rocketseat para ensino de tecnologias WEB. <br/>
